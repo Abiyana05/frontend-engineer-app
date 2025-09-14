@@ -17,7 +17,8 @@ All components are **responsive**, **accessible**, and documented in **Storybook
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Abiyana05/frontend-engineer-app.git
+
 cd frontend-engineer-app
 
 # Install dependencies
